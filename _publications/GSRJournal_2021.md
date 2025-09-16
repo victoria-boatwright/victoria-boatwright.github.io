@@ -2,11 +2,11 @@
 title: "Biological and Physical Interactions at Local Ocean Scales: Coupled Systems"
 collection: publications
 category: manuscripts
-permalink: [GSR Journal](https://doi.org/10.48091/DNPR7287)
+permalink:  /publication/GSRJournal_2021 
 date: 2021-02-10
-venue: Georgetown Scientific Research Journal 
+venue: "Georgetown Scientific Research Journal "
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: [https://doi.org/10.48091/DNPR7287](https://doi.org/10.48091/DNPR7287)
+paperurl: 'https://doi.org/10.48091/DNPR7287'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
