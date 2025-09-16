@@ -29,7 +29,7 @@ author:
   bio              : "Physical Oceanography PhD Student at Scripps Institution of Oceanography. NSF Graduate Research Fellow."
   location         : "San Diego"
   employer         : "Scripps Institution of Oceanography, UCSD"
-  uri              : "https://www.linkedin.com/in/victoria-boatwright/" # URL
+  uri              : # URL
   email            : "vboatwright@ucsd.edu" 
 
   # Academic websites
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Victoria Boatwright
+  linkedin         : "https://www.linkedin.com/in/victoria-boatwright/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
