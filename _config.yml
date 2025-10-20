@@ -23,7 +23,7 @@ repository               : "victoria-boatwright.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "boat_pic.jpeg"
   name             : "Victoria Boatwright"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Physical Oceanography PhD Student at Scripps Institution of Oceanography. NSF Graduate Research Fellow."
