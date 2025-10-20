@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Santa Lucia Research Cruise on R/V Sally Ride: Co-Lead for Physical Oceanography Operations"
+excerpt: "11-day research expedition on R/V Sally Ride investigating bottom-up drivers of productivity at the Santa Lucia Escarpment "
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+See more information at Kerstin Bergentz's write-up: [Sailing Scholars](https://scripps.ucsd.edu/news/sailing-scholars) 
