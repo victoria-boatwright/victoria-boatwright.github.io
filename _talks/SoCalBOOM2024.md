@@ -1,9 +1,9 @@
 ---
-title: "Southern California Biogeochemical Ocean Observations and Models (SoCalBOOM) Symposium"
+title: "Storm Impacts to Estuarine Biogeochemistry in Southern California"
 collection: talks
-type: "Conference proceedings talk"
+type: "Poster"
 permalink: /talks/SoCalBOOM2024
-venue: "Southern California Biogeochemical Ocean Observations and Models Annual Conference"
+venue: "Southern California Biogeochemical Ocean Observations and Models Annual Symposium"
 date: 2024-10-26
 location: "Santa Barbara, CA, USA"
 ---
